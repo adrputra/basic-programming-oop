@@ -1,0 +1,8 @@
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.SuggestedBindingRedirects.cache
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+D:\ADR\Metrodata\Tugas MCC\BasicCoding\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
